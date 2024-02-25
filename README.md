@@ -17,11 +17,11 @@ To get started with the Weather App, follow these steps:
 2. Open the project in Android Studio.
 
 3. Replace the API key:
-- Obtain an API key from [OpenWeatherMap](https://openweathermap.org/api).
-- Replace the `API_KEY` variable in the `WeatherService.java` file located in the `com.example.weatherapp` package with your API key.
+    - Obtain an API key from [OpenWeatherMap](https://openweathermap.org/api).
+    - Replace the `API_KEY` variable in the `WeatherService.java` file located in the `com.example.weatherapp` package with your API key.
 
 4. Replace the city, state, and country code:
-- In the `WeatherService.java` file, modify the `getWeather()` method to use the desired city, state, and country code.
+    - In the `WeatherService.java` file, modify the `getWeather()` method to use the desired city, state, and country code.
 
 5. Build and run the application on your device or emulator.
 
